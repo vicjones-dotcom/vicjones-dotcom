@@ -4,7 +4,8 @@ I'm Victoria Jones.
 - 💻Junior web developer.
 - 💪I am currently on an intensive full stack training with _nology. 
 - 📫 How to reach me: jonesvictoria077@gmail.com
-- 
+--
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> Connect with me https://www.linkedin.com/in/victoriajonescyprus/
 
 
