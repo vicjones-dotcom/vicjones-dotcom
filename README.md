@@ -1,7 +1,7 @@
 Hi there 👋
 I'm Victoria Jones. 
 - 😄 Pronouns: (she/they)
-- 💻Junior web developer.
+- 💻Junior Web Developer.
 - 💪I am currently on an intensive full stack course with _nology. 
 - 📫 How to reach me: jonesvictoria077@gmail.com
 
