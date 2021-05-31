@@ -6,7 +6,8 @@ I'm Victoria Jones.
 - 📫 How to reach me: jonesvictoria077@gmail.com
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> Connect with me https://www.linkedin.com/in/victoriajonescyprus/
+<a href="https://www.linkedin.com/in/victoriajonescyprus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+Connect with me https://www.linkedin.com/in/victoriajonescyprus/
 
 
 Technology Stack:
